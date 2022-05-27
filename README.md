@@ -1,2 +1,2 @@
 # ProyectoAngular
-Angular
+Este es un repositorio para subir Proyecto Angular
